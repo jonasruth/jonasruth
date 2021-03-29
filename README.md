@@ -1,4 +1,4 @@
-### ⚡ Hello
+### Hello
 
 
 ## Angular Examples
