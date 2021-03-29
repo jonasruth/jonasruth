@@ -1,7 +1,8 @@
 ### ⚡ Hello
 
-Tutoriais:
-- [Angular Lazy-loading](github.com/jonasruth/lazy-loading) mar2021
+
+## Angular Examples
+⚡ [Angular lazy-loading](github.com/jonasruth/lazy-loading) - Created on Mar, 2021
 
 <!--
 **jonasruth/jonasruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
