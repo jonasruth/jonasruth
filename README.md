@@ -2,7 +2,7 @@
 
 
 ## Angular Examples
-⚡ [Angular lazy-loading](github.com/jonasruth/lazy-loading) - Created on Mar, 2021
+⚡ [Angular lazy-loading](https://github.com/jonasruth/lazy-loading) - Created on Mar, 2021
 
 <!--
 **jonasruth/jonasruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
